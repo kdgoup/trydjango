@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"Flo",
+				"Flottes"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dhia/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/NO NAME/GenFile.java",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/Meros Theme/BC_Meros_Standard_Package/BC_Meros_Default_Standard/BC_MEROS_Default_Standard_Theme/template/default.html",
+		"/Users/dhia/Desktop/Info.plist",
+		"/Applications/Utilities/Boot Camp Assistant.app/Contents/Info.plist",
+		"/Users/dhia/Desktop/loop-post.php",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/megamenu.html",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/loop-post.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/admin.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/theme.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/single.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/slider_home.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/template.css",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/loop-post 2.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/single 2.php",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/wzQL.bxt1TD/Styles/theme.css",
+		"/Users/dhia/Desktop/new-menu.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/new-menu.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/Meros Theme/BC_Meros_Standard_Package/BC_Meros_Full_Width_Slider_Standard/BC_MEROS_Full_Width_Slider_Standard_Theme/template/Panels/HomeFeaturedProducts.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/BigC backup/template/Panels/Footer.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/menu.htnl",
+		"/Users/dhia/Downloads/new-menu.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/Meros Theme/BC_Meros_Standard_Package/BC_Meros_Full_Width_Slider_Standard/BC_MEROS_Full_Width_Slider_Standard_Theme/template/Snippets/PageMenu.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/Meros Theme/BC_Meros_Standard_Package/BC_Meros_Full_Width_Slider_Standard/BC_MEROS_Full_Width_Slider_Standard_Theme/template/Snippets/PageSubMenu.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/Meros Theme/BC_Meros_Standard_Package/BC_Meros_Default_Standard/BC_MEROS_Default_Standard_Theme/template/__gift_themes/Christmas.html",
+		"/Users/dhia/Downloads/AccountCompletedOrdersPaging.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/MEROS/Meros Theme/BC_Meros_Standard_Package/BC_Meros_Default_Standard/BC_MEROS_Default_Standard_Theme/template/Panels/PagesMenu.html",
+		"/Users/dhia/Desktop/full_template_ve41kxzgz6_ClassicNext_20160314-1927/Panels/NewsletterContent.html",
+		"/Users/dhia/Desktop/html5-video-source/css/style.css",
+		"/Users/dhia/Desktop/product-insta360-4k-index-e9b9c7a0.css",
+		"/Users/dhia/Desktop/html5-video-play-on-hover/index.html",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/wzQL.myR0Jk/index.html",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/7a8fca97-b4ef-4bbe-a7a1-844c7e246810/dav/template/js/product.js",
+		"/Users/dhia/Documents/Gadget Factory Docs/template/product.html",
+		"/Users/dhia/Desktop/BC_Meros_Default_Standard/BC_MEROS_Default_Standard_Manual/index.html",
+		"/Users/dhia/Desktop/BC_Meros_Default_Standard/BC_MEROS_Default_Standard_Theme/template/category.html",
+		"/Users/dhia/Desktop/BC_Meros_Default_Standard/BC_MEROS_Default_Standard_Theme/template/default.html",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/2efe16fa-31d3-487b-b9bc-393425c8e1b7/dav/template/Styles/styles.css",
+		"/Users/dhia/Documents/Gadget Factory Docs/BigC backup/full_template_wgbxee_default_20140924-1347/default.html",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/gfGrey 2.tmpl",
+		"/Users/dhia/Downloads/uploadts-1453429749-sec_ae9d5d93-f987-4c3b-bb61-0198b4199e22",
+		"/Users/dhia/Desktop/CategoryContentFPGA.html",
+		"/Users/dhia/Downloads/lastpass.csv",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/blog-hooks.php",
+		"/Users/dhia/Documents/Learning/Udemy/CFE/learn1/project1/manage.py",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/page-hooks.php",
+		"/Users/dhia/Desktop/Bishil.com/app/src/main/java/com/bishil/tea/app/TeaApplication.java",
+		"/Users/dhia/Desktop/Bishil.com/app/src/androidTest/java/com/bishil/tea/app/ApplicationTest.java",
+		"/Applications/HTC Sync Manager.app/Contents/Resources/en.lproj/Help/default.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/templates/frontend/bright-corai/albums.tpl",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/templates/frontend/bright-blue/static/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/album.php",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/albums.php",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/media/albums/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/tmp/albums/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/tmp/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/index.php",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/templates/index.php",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/templates/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/templates/frontend/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/scripts/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/photo.php",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/images/notice_images/index.php",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/images/notice_images/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/images/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/media/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/media/photos/tmb/index.html",
+		"/Users/dhia/Desktop/CS 5.0 Distribution/upload/media/photos/index.html",
+		"/Users/dhia/Desktop/pannellum-2.1.1_full/utils/config/configuration.htm",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/wzQL.JsnvlM/pannellum-2.1.1_full/pannellum.htm",
+		"/Users/dhia/Desktop/pannellum-2.1.1_full/pannellum.htm",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/wzQL.7rR3ef/pannellum-2.1.1_full/examples/example-cube.htm",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/wzQL.mQgbsw/pannellum-2.1.1_full/examples/example-cube.htm",
+		"/Users/dhia/Downloads/FileZilla.xml",
+		"/Users/dhia/Downloads/downloads_files_records",
+		"/Users/dhia/Desktop/untitled.html",
+		"/Users/dhia/Sites/phpmyadmin/config/config.inc.php",
+		"/Users/dhia/Sites/phpmyadmin/setup/frames/config.inc.php",
+		"/Users/dhia/Sites/phpmyadmin/setup/config.php",
+		"/Users/dhia/Documents/Learning/jars/primefaces/spark-layout-1.2/tag/src/main/webapp/dashboard.xhtml",
+		"/Users/dhia/Documents/Learning/jars/primefaces/spark-layout-1.2/tag/src/main/webapp/empty-page.xhtml",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance7/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Contrat.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance7/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Developpeur.java",
+		"/Volumes/kdgoup/Esprit/jjjjj/esprit 2eme année/j2ee/jndi.properties",
+		"/Volumes/kdgoup/Esprit/jjjjj/esprit 2eme année/j2ee/EJBdernierscience/ejb-inheritence/ejbModule/edu/app/service/Authentification.java",
+		"/Volumes/kdgoup/Esprit/jjjjj/esprit 2eme année/j2ee/EJBdernierscience/ejb-inheritence/ejbModule/edu/app/service/AuthentificationRemote.java",
+		"/Volumes/kdgoup/Esprit/jjjjj/esprit 2eme année/j2ee/EJBdernierscience/clientheritage/src/edu/app/test/Test.java",
+		"/Volumes/kdgoup/Esprit/jjjjj/esprit 2eme année/j2ee/EJBdernierscience/clientheritage/jndi.properties",
+		"/Users/dhia/Desktop/jeefordhia/Maven  Maven on Windows.html",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance 6 (heritage)/Mantis_EJB/ejbModule/com/esprit/mantis/services/GestionBugsRemote.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance 6 (heritage)/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Commentaire.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance 6 (heritage)/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Bug.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance 6 (heritage)/Mantis_EJB/ejbModule/com/esprit/mantis/services/GestionBugs.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance 6 (heritage)/Mantis_Client/appClientModule/com/esprit/mantis_client/test/AffecterBugEtat_bug.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance7/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Commentaire.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/seance7/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Bug.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Contrat.java",
+		"/Volumes/kdgoup/25 04 2014/4GL3/J2EE/Mantis_EJB/ejbModule/com/esprit/mantis/persistence/Bug.java",
+		"/Users/dhia/Documents/wildfly-8.2.0.Final/bin/standalone.bat",
+		"/Users/dhia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dhia/Documents/Learning/Udemy/HTML5 and CSS3 Course/first-site/css/custom.css",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/fz3temp-1/header.php",
+		"/Users/dhia/Documents/Gadget Factory Docs/BigC backup/custom_template_wgbxee_default_20140924-1346/Snippets/CartItemQtySelect.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/BigC backup/custom_template_wgbxee_default_20140924-1346/product.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/BigC backup/custom_template_wgbxee_default_20140924-1346/default.html",
+		"/Users/dhia/Documents/Gadget Factory Docs/BigC backup/custom_template_wgbxee_default_20140924-1346/order.html",
+		"/Users/dhia/Downloads/libglpk-java-1.0.37/examples/java/Mip.java",
+		"/Users/dhia/Downloads/libglpk-java-1.0.37/examples/java/MinimumCostFlow.java",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/d9169e6d-f44c-4a20-9dea-c1769b977872/dav/template/product.html",
+		"/private/var/folders/b1/xxsw84wx11j78c1svc718sb80000gn/T/d9169e6d-f44c-4a20-9dea-c1769b977872/dav/template/Panels/sidebanner.html",
+		"/Users/dhia/Downloads/full_template_wgbxee_default_20150306-1802/Panels/sidebanner.html",
+		"/Users/dhia/Downloads/full_template_wgbxee_default_20150306-1802/Panels/TopMenu.html",
+		"/Users/dhia/Downloads/full_template_wgbxee_default_20150306-1802/default.html",
+		"/Users/dhia/Github/Papilio-Loader/Java-GUI/src/net/gadgetfactory/papilio/loader/HelperFunctions.java",
+		"/Users/dhia/Desktop/gfGrey.tmpl",
+		"/Users/dhia/Documents/Learning/Udemy/HTML5 and CSS3 Course/first-site/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new-m",
+			"header",
+			"cameras",
+			"TVs",
+			" style=\"position: absolute; left: 0px; top: 0px; transition-property: opacity, transform; transition-duration: 0.4s; transform: translate3d(0px, 0px, 0px);\"",
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true
+}
